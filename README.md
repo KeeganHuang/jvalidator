@@ -1,4 +1,4 @@
-jvalidator
+﻿jvalidator
 =======================
 
 ### Change Log ###
@@ -10,6 +10,7 @@ jvalidator
 0.3.9 修正读取pattern属性时的cache
 
 ### 基本使用 ###
+zheshisha
 
 ##### 第1步
 
